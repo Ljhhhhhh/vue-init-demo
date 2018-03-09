@@ -13,8 +13,9 @@ export default new Router({
             component:homePage
         },
         {
-            path:'about',
+            path:'/about',
             component:aboutPage
         }
-    ]
+    ],
+    mode:"history"
 })

@@ -23,7 +23,7 @@ export default {
       }
   },
   components:{
-      headerTab
+      HeaderTab
   }
 }
 </script>

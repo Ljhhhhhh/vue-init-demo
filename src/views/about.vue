@@ -1,3 +1,5 @@
 <template>
-    <div>about</div>
+    <div>
+       hello vue-demo
+    </div>
 </template>

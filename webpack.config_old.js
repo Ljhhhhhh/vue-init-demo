@@ -57,7 +57,6 @@ module.exports = {
         port: 8009,
         host:'0.0.0.0',
         contentBase: __dirname+"/dist/",
-        historyApiFallback: true,
         inline: true //实时刷新
     },
     performance: {
